@@ -1,0 +1,74 @@
+# Copyright (C) 2015 Professional Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Corporate Custom Colors 1.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/corporate-custom-colors\n"
+"POT-Creation-Date: 2015-09-30 11:57:31+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.3\n"
+
+#: corporate-custom-colors.php:30
+msgid ""
+"If you would like even more fine-grained control over your colors, take "
+"advantage of the Jetpack <a "
+"href=\"http://jetpack.me/support/custom-css/\">Custom CSS</a> module."
+msgstr ""
+
+#: corporate-custom-colors.php:49
+msgid "Main Accent Background"
+msgstr ""
+
+#: corporate-custom-colors.php:65
+msgid "Main Accent Text"
+msgstr ""
+
+#: corporate-custom-colors.php:85
+msgid "Secondary Accent Background"
+msgstr ""
+
+#: corporate-custom-colors.php:101
+msgid "Secondary Accent Text"
+msgstr ""
+
+#: corporate-custom-colors.php:121
+msgid "Entry Content Links"
+msgstr ""
+
+#: corporate-custom-colors.php:141
+msgid "Header Content Background"
+msgstr ""
+
+#: corporate-custom-colors.php:157
+msgid "Header Content Text"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Corporate Custom Colors"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"https://creativemarket.com/professionalthemes/382762-Corporate-WordPress-"
+"Theme"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin adds custom colors functionality into the Corporate WordPress "
+"Theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Professional Themes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://creativemarket.com/professionalthemes"
+msgstr ""
